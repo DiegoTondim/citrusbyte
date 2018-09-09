@@ -1,0 +1,17 @@
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.deps.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.runtimeconfig.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.runtimeconfig.dev.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.pdb
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\bin\Debug\netcoreapp2.1\Citrusbyte.Core.pdb
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.csprojAssemblyReference.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.AssemblyInfoInputs.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.AssemblyInfo.cs
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.csproj.CopyComplete
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core.Tests\obj\Debug\netcoreapp2.1\Citrusbyte.Core.Tests.pdb

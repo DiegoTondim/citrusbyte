@@ -1,0 +1,11 @@
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\bin\Debug\netcoreapp2.1\Citrusbyte.Test.deps.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\bin\Debug\netcoreapp2.1\Citrusbyte.Test.runtimeconfig.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\bin\Debug\netcoreapp2.1\Citrusbyte.Test.runtimeconfig.dev.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\bin\Debug\netcoreapp2.1\Citrusbyte.Test.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\bin\Debug\netcoreapp2.1\Citrusbyte.Test.pdb
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\obj\Debug\netcoreapp2.1\Citrusbyte.Test.csprojAssemblyReference.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\obj\Debug\netcoreapp2.1\Citrusbyte.Test.csproj.CoreCompileInputs.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\obj\Debug\netcoreapp2.1\Citrusbyte.Test.AssemblyInfoInputs.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\obj\Debug\netcoreapp2.1\Citrusbyte.Test.AssemblyInfo.cs
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\obj\Debug\netcoreapp2.1\Citrusbyte.Test.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Test\obj\Debug\netcoreapp2.1\Citrusbyte.Test.pdb

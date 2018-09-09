@@ -1,0 +1,9 @@
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\bin\Debug\netstandard2.0\Citrusbyte.Core.deps.json
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\bin\Debug\netstandard2.0\Citrusbyte.Core.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\bin\Debug\netstandard2.0\Citrusbyte.Core.pdb
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\obj\Debug\netstandard2.0\Citrusbyte.Core.csprojAssemblyReference.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\obj\Debug\netstandard2.0\Citrusbyte.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\obj\Debug\netstandard2.0\Citrusbyte.Core.AssemblyInfoInputs.cache
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\obj\Debug\netstandard2.0\Citrusbyte.Core.AssemblyInfo.cs
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\obj\Debug\netstandard2.0\Citrusbyte.Core.dll
+C:\Users\diego.rocha\source\repos\Citrusbyte.Test\Citrusbyte.Core\obj\Debug\netstandard2.0\Citrusbyte.Core.pdb
